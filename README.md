@@ -1,3 +1,3 @@
 # hello-world
-My thought box
+School work.
 I am a student at fleming college.
